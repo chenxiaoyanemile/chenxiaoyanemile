@@ -1,4 +1,9 @@
-### Hi there 👋
+<h2 align="center">Hi there! 👋 I'm Emily Chen, a software engineer.</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chenxiaoyanemile&count_private=true&disable_animations=true&show_icons=true&hide_border=true&hide=contribs&include_all_commits=true" alt="GitHub Stats">
+  
+</p>
 
 <!--
 **chenxiaoyanemile/chenxiaoyanemile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
